@@ -14,8 +14,9 @@ Currently MSc Computer Science
 
 # ✍ Projects:
 
-Java Carbon Education Game: <https://github.com/0venBurn/Captain-Carbon>
-Dublin Bikes Navigation and Availability <https://github.com/0venBurn/Dublin-Bikes>
+- Java Carbon Education Game: <https://github.com/0venBurn/Captain-Carbon>
+
+- Dublin Bikes Navigation and Availability <https://github.com/0venBurn/Dublin-Bikes>
 
 
 
