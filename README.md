@@ -23,7 +23,7 @@ Currently MSc Computer Science. Enjoy full-stack development and continuing to l
 # ✍ Tools, Configs, Notes:
 
 - neovim config <https://github.com/0venBurn/nvim>
-- 
+  
 - leetcode journey <https://github.com/0venBurn/leetcode-journey>
 
 ---
