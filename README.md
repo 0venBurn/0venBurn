@@ -18,7 +18,13 @@ Currently MSc Computer Science. Enjoy full-stack development and continuing to l
 
 - Dublin Bikes Navigation and Availability <https://github.com/0venBurn/Dublin-Bikes>
 
+- Portfolio Website <https://github.com/0venBurn/portfolio-website>
 
+# ✍ Tools, Configs, Notes:
+
+- neovim config <https://github.com/0venBurn/nvim>
+- 
+- leetcode journey <https://github.com/0venBurn/leetcode-journey>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=0venBurn&icon=0&color=0)](https://visitcount.itsvg.in)
