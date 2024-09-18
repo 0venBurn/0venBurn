@@ -14,6 +14,8 @@ Currently MSc Computer Science. Enjoy full-stack development and continuing to l
 
 # ✍ Projects:
 
+- Business Analytics Platform <https://github.com/0venBurn/Anseo>
+  
 - Java Carbon Education Game: <https://github.com/0venBurn/Captain-Carbon>
 
 - Dublin Bikes Navigation and Availability <https://github.com/0venBurn/Dublin-Bikes>
