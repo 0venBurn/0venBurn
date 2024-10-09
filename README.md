@@ -22,7 +22,7 @@ Currently MSc Computer Science. Enjoy full-stack development and continuing to l
 
 - Portfolio Website <https://github.com/0venBurn/portfolio-website>
 
-- Nasa Hackathon <https://https://github.com/0venBurn/nasa-hackathon-2024>
+- Nasa Hackathon <https://github.com/0venBurn/nasa-hackathon-2024>
 
 # ✍ Tools, Configs, Notes:
 
