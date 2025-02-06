@@ -1,26 +1,18 @@
 # 💫 About Me:
-SWE 
+Software Engineer working mainly in Java & SQL 
 
-# ✍ Projects:
-
-- Business Analytics Platform <https://github.com/0venBurn/Anseo>
+# Business Analytics Platform
+Platform built as a part of my Master's project. Leverages machine learning models trained on historical data to help businesses decide where they should start or where they should move to in New York.
+<https://github.com/0venBurn/Anseo>
   
-- Java Carbon Education Game: <https://github.com/0venBurn/Captain-Carbon>
+# Captain Carbon: Java Carbon Education Game
+Educational game programmed in Java and LibGDX to using gamification techniques to help people become more carbon aware and encourage use of public transport. Published in the IEEE transport conference 2024. 
+<https://github.com/0venBurn/Captain-Carbon>
 
-- Dublin Bikes Navigation and Availability <https://github.com/0venBurn/Dublin-Bikes>
+# Dublin Bikes Navigation and Availability 
+Dublin bikes availability predictor for each bike station along with route planning.
+<https://github.com/0venBurn/Dublin-Bikes>
 
-- Portfolio Website <https://github.com/0venBurn/portfolio-website>
-
-- Nasa Hackathon <https://github.com/0venBurn/nasa-hackathon-2024>
-
-# ✍ Tools, Configs, Notes:
-
-- neovim config <https://github.com/0venBurn/nvim>
-  
-- leetcode journey <https://github.com/0venBurn/leetcode-journey>
-
----
-[![](https://visitcount.itsvg.in/api?id=0venBurn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Nasa Hackathon 
+Project built at my first hackathon for fun.
+<https://github.com/0venBurn/nasa-hackathon-2024>
